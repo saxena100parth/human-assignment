@@ -20,7 +20,7 @@ npm init
 ```
 npm start
 ```
-* This will launch the frontend and backend applications, allowing you to interact with the project. If you encounter any issues or have questions, feel free to ask for assistance. Happy coding!
+Note:  This will launch the frontend and backend applications, allowing you to interact with the project. If you encounter any issues or have questions, feel free to ask for assistance.
 
 
 
