@@ -10,7 +10,7 @@ This repository contains the code and instructions for completing the assignment
 
 2. Navigate to both the "frontend" and "backend" folders in your terminal.
 
-3. Run the following command in each folder to initialize the Node.js projects:
+3. Run the following command in each folder to initialize the projects:
 
 ```
 npm init
