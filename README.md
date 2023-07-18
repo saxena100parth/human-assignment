@@ -13,7 +13,7 @@ This repository contains the code and instructions for completing the assignment
 3. Run the following command in each folder to initialize the projects:
 
 ```
-npm init
+npm install
 ```
 4. After the initialization is complete, start the applications using the following command in each folder:
 
